@@ -24,8 +24,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   A personal journal and workspace for Chris Wells.
 baseurl: "/dev-chrisdwells-online" # the subpath of your site, e.g. /blog
 url: "https://djwesto.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "https://djwesto.github.io" # the subpath of your site, e.g. /blog
+url: "/dev-chrisdwells-online" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: chrisdwells_
+github_username:  djwesto
 
 # Build settings
 theme: minima
